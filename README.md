@@ -2,6 +2,12 @@
 
 Repository di consegna per il modulo software testing di ISPW2.
 
+Travis Bookkeeper: https://travis-ci.com/github/chiacchius/bookkeeper
+Sonar Bookkeeper: https://sonarcloud.io/dashboard?id=chiacchius%3Aorg.apache.bookkeeper%3Abookkeeper
+
+Travis Zookeeper: https://travis-ci.com/github/chiacchius/zookeeper
+Sonar Zookeeper: https://sonarcloud.io/dashboard?id=chiacchius%3Aorg.apache.zookeeper%3Aparent
+
 Link cartella classi di test JCS 
 - https://github.com/chiacchius/jcs/tree/main/src/test/java/it/uniroma2/dicii/isw2/jcs/paramTests  
 
