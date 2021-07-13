@@ -2,6 +2,10 @@
 
 Repository di consegna per il modulo software testing di ISPW2.
 
+Link cartella classi di test JCS 
+- https://github.com/chiacchius/jcs/tree/main/src/test/java/it/uniroma2/dicii/isw2/jcs/paramTests  
+
+
 Link cartelle classi di test BOOKKEEPER  
 - BookkeeperAdmin: https://github.com/chiacchius/bookkeeper/tree/master/bookkeeper-server/src/test/java/org/apache/bookkeeper/client/bookkeeperAdminTest
 - LedgerHandle : https://github.com/chiacchius/bookkeeper/tree/master/bookkeeper-server/src/test/java/org/apache/bookkeeper/client/ledgerHandleTest
